@@ -1,0 +1,3 @@
+<resources>
+    <style name="SettingsTheme" parent="android:Theme.DeviceDefault.NoActionBar" />
+</resources>

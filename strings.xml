@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Slate Launcher</string>
+    <string name="settings">Slate Settings</string>
+    <string name="a11y_label">Slate gestures</string>
+    <string name="a11y_desc">Lets Slate Launcher lock the screen on double tap and open the notification panel on swipe down. It does not read your screen.</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <style name="AppTheme" parent="android:Theme.DeviceDefault.Wallpaper.NoTitleBar">
+        <item name="android:windowShowWallpaper">true</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:statusBarColor">@android:color/transparent</item>
+        <item name="android:navigationBarColor">@android:color/transparent</item>
+        <item name="android:windowAnimationStyle">@null</item>
+    </style>
+    <style name="SettingsTheme" parent="android:Theme.DeviceDefault.Light.NoActionBar" />
+</resources>
